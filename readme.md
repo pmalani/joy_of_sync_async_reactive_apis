@@ -1,5 +1,5 @@
 # Sync, Async, and Reactive APIs
-Look at a sample as well as a little more involved examples. As well as, exception / error handling.
+Look at a simple as well as more involved example. As well as, exception / error handling.
 
 ## Simple
 - Example with 1 key-value
@@ -20,7 +20,7 @@ Look at a sample as well as a little more involved examples. As well as, excepti
 ## Involved
 - Examples with multiple keys and values
 - Use `scan`
-  - The `scan` command return a cursor
+  - The `scan` command returns a cursor
   - Process the keys
   - Call `scan` again, passing in the cursor
   - Stop, then the cursor `isFinished`
