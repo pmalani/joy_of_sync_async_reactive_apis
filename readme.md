@@ -1,5 +1,5 @@
 # Sync, Async, and Reactive APIs
-Look at a simple as well as more involved example. As well as, exception / error handling.
+Look at a simple as well as a more involved example. Look at exception / error handling.
 
 ## Simple
 - Example with 1 key-value
@@ -51,7 +51,7 @@ Look at a simple as well as more involved example. As well as, exception / error
   - Example: `whenExceptionally`
   - [ExceptionAsyncTest.java](src%2Ftest%2Fjava%2FExceptionAsyncTest.java)
 - using `handle`
-  - only provides the return value in addition to exception
+  - provides the return value in addition to exception
   - Example: `whenHandle`
   - [ExceptionAsyncTest.java](src%2Ftest%2Fjava%2FExceptionAsyncTest.java)
 
